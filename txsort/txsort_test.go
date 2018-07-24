@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil/txsort"
+	"github.com/red010b37/navd/wire"
+	"github.com/red010b37/btcutil/txsort"
 )
 
 // TestSort ensures the transaction sorting works according to the BIP.
